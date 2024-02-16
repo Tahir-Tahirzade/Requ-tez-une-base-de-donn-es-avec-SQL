@@ -1,4 +1,4 @@
-# Query a database with SQ
+# Query a database with SQL
 
 ## A) Project Overview:
 
