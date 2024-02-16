@@ -18,7 +18,7 @@ Presentation:
 
 <li>Craft a comprehensive presentation encompassing methodology, steps taken, and a succinct recap of query results, condensed into 10 informative slides in PDF format.
 
-  ## C) Resources:
+## C) Resources:
 
 <li>Presentation: Additional Info:
 
