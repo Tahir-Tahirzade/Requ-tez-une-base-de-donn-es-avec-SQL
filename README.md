@@ -6,12 +6,13 @@
 
 ## B) Steps:
 
-### Data Analysis:
+ ### 1)Data Analysis:
 <ul style="list-style-type:square;">
 
 <li>Conduct SQL queries to extract essential data.
 <li>Undertake thorough analyses, as discussed in our recent meeting, addressing nuances of pricing based on customer profiles, locations, and dwelling types.
-<li>Data Visualization:
+  
+ ### 2)Data Visualization:
 
 <li>Compile query results and associated SQL queries into a clear and readable PDF document, using aliases for enhanced comprehension.
 Presentation:
@@ -20,9 +21,9 @@ Presentation:
 
 ## C) Resources:
 
-<li>Presentation: Additional Info:
+ ### 1)Presentation: Additional Info:
 
 <li>Incorporate any supplementary information deemed relevant to enrich the understanding of the analysis.
-<li>Presentation: Success Criteria:
+ ###  2)Presentation: Success Criteria:
 
 <li>Define success criteria within the presentation, outlining benchmarks for the analysis and providing a roadmap for future improvements.
