@@ -26,6 +26,19 @@ Presentation:
 
 <li>Incorporate any supplementary information deemed relevant to enrich the understanding of the analysis.
 
- ###  2)Presentation: Success Criteria:
+## SKILLSS
 
-<li>Define success criteria within the presentation, outlining benchmarks for the analysis and providing a roadmap for future improvements.
+  #### HARD SKILLS
+  <li>Excel
+  <li>Power Point
+
+  #### SOFT SKILLS
+ <li>Communication and Reporting
+ <li>Improved User Experience
+ <li>User Understanding: 
+
+   
+   # REFERENCES
+<li>Maîtrisez les fondamentaux d'Excel:Openclasrooms
+<li>Développez votre culture des données:Openclasrooms
+<li>Initiez-vous à la gouvernance des données:Openclasrooms
