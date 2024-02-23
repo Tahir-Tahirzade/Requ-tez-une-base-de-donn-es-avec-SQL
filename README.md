@@ -2,7 +2,7 @@
 
 ## A. Project Overview:
 
-#### In this consulting venture with Dat’Assur Habitation, the primary objective is to propel the company into a "Data-Driven" era by scrutinizing and standardizing home insurance contracts. The visionary direction, set by Pascal Hernandez, emphasizes leveraging data for competitive advantage. The project centers on reevaluating insurance contract prices to distinguish the company in the market and provide transparent pricing to customers.
+*In this consulting venture with Dat’Assur Habitation, the primary objective is to propel the company into a "Data-Driven" era by scrutinizing and standardizing home insurance contracts. The visionary direction, set by Pascal Hernandez, emphasizes leveraging data for competitive advantage. The project centers on reevaluating insurance contract prices to distinguish the company in the market and provide transparent pricing to customers.*
 
 ## B.Steps:
 
